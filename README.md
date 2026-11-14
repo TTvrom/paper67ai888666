@@ -1,4 +1,4 @@
-# paper67ai
+# paper67ai888666
 
 > Readme也是ai写的
 > 中文课程论文的两个 skill：从**命题说明**到合规 Word，从**初稿**到降 AI 痕迹。
