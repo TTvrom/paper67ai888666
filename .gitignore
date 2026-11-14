@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Word / Office 锁文件与临时产物
+~$*.docx
+~$*.doc
+*.tmp
+
+# 本地产物，别提交
+*.docx
+*.pdf
+*.json
+_paper*.txt
+_*.png
+examples/*.txt
